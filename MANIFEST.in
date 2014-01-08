@@ -1,2 +1,2 @@
-include *.txt
+include README.md
 include rps setup.py
